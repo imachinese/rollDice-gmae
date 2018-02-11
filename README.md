@@ -1,5 +1,5 @@
 # rollDice-gmae
-c++
+use c++
 #include<iostream>
 #include<cstdlib>
 #include<ctime>
